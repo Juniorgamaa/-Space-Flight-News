@@ -1,0 +1,22 @@
+<div id="<%= dom_id article %>">
+  <p>
+    <strong>Título:</strong>
+    <%= article.title %>
+  </p>
+
+  <p>
+    
+   <%= image_tag article.imageUrl, width:300, height: 150 %>
+  </p>
+
+  <p>
+    <strong>Resumo:</strong>
+    <%= article.sumary %>
+  </p>
+
+  <p>
+    <strong>Data da Publicação:</strong>
+    <%= article.publisheAt %>
+  </p>
+
+</div>

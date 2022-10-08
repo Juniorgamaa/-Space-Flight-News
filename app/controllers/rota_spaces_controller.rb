@@ -1,0 +1,2 @@
+class RotaSpacesController < ApplicationController
+end
