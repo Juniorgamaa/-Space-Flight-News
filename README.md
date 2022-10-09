@@ -1,9 +1,9 @@
-<h1 align="center"> Space Fligth News </h1>
+<h1 align="center"> Space Fligth News 🚀 </h1>
 
 
 ## Descrição
 
-Realizado um restApi para listar todos os artigos na Space Flinght News.
+Realizado um restApi para listar todos os artigos na Space Flinght News, uma APIm ublica que contem informações de voos espaciais.
 
 
 ### Projeto realizado com:
